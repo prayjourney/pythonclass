@@ -1,2 +1,4 @@
 *.CSS linguist-language=python
+*.css linguist-language=python
 *.TSQL linguist-language=python
+*.tsql linguist-language=python
